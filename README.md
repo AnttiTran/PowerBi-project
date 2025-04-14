@@ -48,8 +48,6 @@ This case study demonstrates my ability to deliver insights that bridge **busine
 - Strong performance in Jan & March  
 - Sharp declines in Feb & April impacting overall trend
 
-<kbd>Insert monthly bar/line chart here</kbd>
-
 ---
 
 ### Market Performance by Country
