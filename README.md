@@ -1,4 +1,4 @@
-# Plant Co. – Performance Analysis Dashboard (YTD 2024)
+# Car Co. – Performance Analysis Dashboard (YTD 2024)
 
 ### Business Intelligence Meets Marketing Analytics  
 **Dashboard Type**: Sales, Profitability & Market Insights  
