@@ -36,7 +36,7 @@ The report uncovers concerning declines in certain product categories and region
 
 ## Dashboard Overview
 
-### 1. 🎯 KPI Highlights – 2024 vs 2023
+### 1. KPI Highlights – 2024 vs 2023
 | Metric         | 2024 YTD    | Change vs 2023 |
 |----------------|-------------|----------------|
 | Quantity Sold  | 42.35 tons  | -6.60 tons ↓   |
@@ -47,7 +47,7 @@ Sales volume has declined despite steady margins—suggesting **demand-side issu
 
 ---
 
-### 2. 📅 Monthly Trend Breakdown
+### 2. Monthly Trend Breakdown
 
 **Key Observations**:
 - January and March performed well, likely due to effective promotions or inventory cycles
@@ -114,12 +114,12 @@ Sales volume has declined despite steady margins—suggesting **demand-side issu
 
 To further elevate the dashboard’s business value:
 
-- 📊 **Campaign ROI Tracking**: Connect marketing spend to revenue across regions
-- 🎯 **Predictive Models**: Forecast sales per segment using Power BI AI visuals
-- 📍 **Customer Mapping**: Visualize key account clusters using geographic or cluster mapping
-- 🧠 **RFM Segmentation**: Integrate customer behavioral scoring
-- 📥 **Survey & Feedback Loops**: Include customer satisfaction data or sentiment analysis
-- 📅 **Dynamic Time Filters**: Add calendar and slicer-based YTD/MTD flexibility
+- **Campaign ROI Tracking**: Connect marketing spend to revenue across regions
+- **Predictive Models**: Forecast sales per segment using Power BI AI visuals
+- **Customer Mapping**: Visualize key account clusters using geographic or cluster mapping
+- **RFM Segmentation**: Integrate customer behavioral scoring
+- **Survey & Feedback Loops**: Include customer satisfaction data or sentiment analysis
+- **Dynamic Time Filters**: Add calendar and slicer-based YTD/MTD flexibility
 
 ---
 
