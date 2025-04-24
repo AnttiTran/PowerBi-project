@@ -137,6 +137,6 @@ This report shows how I bridge the gap between data, marketing strategy, and bus
 
 ## Project Files
 
-- 📊 Power BI (.pbix) file  
-- 📸 Screenshots for each visual (for GitHub or LinkedIn post)  
-- 📄 This README.md for details of the projects
+-  Power BI (.pbix) file  
+-  Screenshots for each visual (for GitHub or LinkedIn post)  
+-  This README.md for details of the projects
